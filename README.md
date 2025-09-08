@@ -1,6 +1,4 @@
-# Campus Hiring Evaluation - Kavya Agnihotri (2201641550059)
-
-This repository contains the submission for the campus hiring evaluation test.
+Kavya Agnihotri (2201641550059)
 
 ## Project Structure
 
